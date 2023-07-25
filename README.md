@@ -17,3 +17,7 @@ Manual test:
 
 Run the login app on the browser enter the credential that are on the page and if it is ok you will be redirected to the personalInfoAPP otherwise the error code is showed.
 
+logs:
+
+Up the docker container to kibana and elastic search using the same port set on the authentication.web.api appsetting.json file.
+
